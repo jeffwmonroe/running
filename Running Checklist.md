@@ -13,32 +13,39 @@
 - [ ] Charge Headphones
 - [ ] Charge iPhone
 
-### Day of:
+### Night Bedfore (Lay out):
 
-Running SHoes
-socks
-under pants
-technical shirt
-running shorts
+- [ ] Running Shoes
+- [ ] Socks
+- [ ] under pants
+- [ ] technical shirt
+- [ ] running shorts
+- [ ] Headband
 
-Sandals
-Jacket
-Sweat Pants
+---
 
-Hydration Vest
-Hydration Bottles : water
-2 x Metal Yeti Bottles
-2 x  Black Shaker Bottles with electrolytes
-Towel
+- [ ] Sandals
+- [ ] Jacket
+- [ ] Sweat Pants
 
-Headband
-Ear Phones
-fanny pack
-Heart rate monitor
-apple watch
+---
 
-iphone
+- [ ] Hydration Vest
+- [ ] Hydration Bottles : water
+- [ ] 2 x Metal Yeti Bottles
+- [ ] 2 x  Black Shaker Bottles with electrolytes
+- [ ] Towel
 
-Car Keys
-Wallet
-Cash
+---
+
+- [ ] Ear Phones
+- [ ] fanny pack
+- [ ] Heart rate monitor
+- [ ] apple watch
+- [ ] iPhone
+
+---
+
+- [ ] Car Keys
+- [ ] Wallet
+- [ ] Cash
