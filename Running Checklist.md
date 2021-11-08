@@ -1,15 +1,19 @@
-Week Before:
+# Jeff's Running Checklist
 
-Make running music playlist
-Finalize Split times
+---
 
-Day Before:
+### Week Before:
 
-Prep Coffee Maker
-Charge Headphones
-Charge iPhone
+- [ ] Make running music playlist
+- [ ] Finalize Split times
 
-Day of:
+### Day Before:
+
+- [ ] Prep Coffee Maker
+- [ ] Charge Headphones
+- [ ] Charge iPhone
+
+### Day of:
 
 Running SHoes
 socks
